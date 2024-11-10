@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MK\\source\\repos\\ShoppingSite\\ShoppingSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ShoppingSite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShoppingSite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MK\\source\\repos\\ShoppingSite\\ShoppingSite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\MK\\source\\repos\\ShoppingSite\\ShoppingSite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MK\\source\\repos\\ShoppingSite\\ShoppingSite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MK\\source\\repos\\ShoppingSite\\ShoppingSite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShoppingSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShoppingSite.props",
+      "PackagePath": "build\\ShoppingSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShoppingSite.props",
+      "PackagePath": "buildMultiTargeting\\ShoppingSite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShoppingSite.props",
+      "PackagePath": "buildTransitive\\ShoppingSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

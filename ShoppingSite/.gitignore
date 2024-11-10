@@ -1,0 +1,6 @@
+# .gitignore 예시
+.vs/
+.vscode/
+*.user
+*.suo
+*.db
