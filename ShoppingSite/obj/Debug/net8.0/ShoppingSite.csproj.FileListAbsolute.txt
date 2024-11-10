@@ -27,3 +27,6 @@ C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\refint\Shopp
 C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ShoppingSite.pdb
 C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ShoppingSite.genruntimeconfig.cache
 C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ref\ShoppingSite.dll
+C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ShoppingSite.sourcelink.json
+C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ShoppingSite.RazorAssemblyInfo.cache
+C:\Users\MK\source\repos\ShoppingSite\ShoppingSite\obj\Debug\net8.0\ShoppingSite.RazorAssemblyInfo.cs
